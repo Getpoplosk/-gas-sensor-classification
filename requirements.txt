@@ -1,0 +1,19 @@
+# Deep Learning
+torch>=1.9.0
+torchvision>=0.10.0
+
+# Image Processing
+Pillow>=8.0.0
+
+# Machine Learning
+scikit-learn>=0.24.0
+
+# Visualization
+matplotlib>=3.3.0
+seaborn>=0.11.0
+
+# Progress Bar
+tqdm>=4.60.0
+
+# Optional: GPU support (if using CUDA)
+# cudatoolkit (via conda) or CUDA toolkit
